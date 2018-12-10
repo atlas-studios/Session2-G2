@@ -1022,3 +1022,5 @@
 战无双	Zhan Wushuang
 战无双	Zhan Wushuang	male youth
 战无双	Peerless Zhang
+钱万贯	Qian Wanguan
+钱万贯	Qian Wanguan
