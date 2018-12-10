@@ -1688,6 +1688,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“大哥果然聪明！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T075407Z" creationid="Beverley" creationdate="20181210T075407Z">
+        <seg>“Big brother is intelligent indeed！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“大哥，你没睡醒吧？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Tan Shi Jun" changedate="20181210T074524Z" creationid="Tan Shi Jun" creationdate="20181210T073853Z">
@@ -1700,6 +1708,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Tan Shi Jun" changedate="20181210T081327Z" creationid="Tan Shi Jun" creationdate="20181210T080149Z">
         <seg>"Big Brother, it appears that you are clueless to how the Mt. Spirit Beast College works!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“大哥，缘分呐，我们居然在一个院子内住，以后还希望大哥多多照顾。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T080658Z" creationid="Beverley" creationdate="20181210T080658Z">
+        <seg>“Big brother, it is fate that brought us together to stay in the same yard. Hope big brother can guide me along in the future.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1756,6 +1772,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T054909Z" creationid="Joey" creationdate="20180808T155052Z">
         <seg>"Alright, trust in your young master; I will come up with a plan. Head on in."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好吧……我说实话！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T080002Z" creationid="Beverley" creationdate="20181210T080002Z">
+        <seg>“Alright... I will speak the truth！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,6 +2436,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061835Z" creationid="Joey" creationdate="20180813T145226Z">
         <seg>"I have talent my ass."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我的身份？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T080055Z" creationid="Beverley" creationdate="20181210T080055Z">
+        <seg>“My identity？”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3932,6 +3964,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181020T153802Z" creationid="tianqi" creationdate="20181020T153802Z">
         <seg>"Young Master Fei, stand back!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“马勒戈壁！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T075321Z" creationid="Beverley" creationdate="20181210T075321Z">
+        <seg>“Damn it！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5914,8 +5954,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>其余人江逸不管，这江麒麟可是认出了他。以江麒麟的本事，他进了学院很快就会找来吧？那可是神武国第二世家的公子啊！姬听雨让他低调些，没想到还没进学院就已经得罪了一个大人物。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T072019Z" creationid="Beverley" creationdate="20181210T072019Z">
-        <seg>Jiang Yi did not care about the rest, but he did recognize Jiang Qilin. With Jiang Qilin's ability, is it even a question that he will come for me quickly after entering collage? He is the Young Master of number two clan in the Divine Martial Kingdom! Ji Tingyu reminded him to stay low-key,  yet he never expected to offend an important figure before even entering collage.   </seg>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T083615Z" creationid="Beverley" creationdate="20181210T072019Z">
+        <seg>Jiang Yi did not care about the rest, but Jiang Qilin did recognize him. With Jiang Qilin's ability, is it even a question that he will come for me quickly after entering collage? He is the Young Master of number two clan in the Divine Martial Kingdom! Ji Tingyu reminded him to stay low-key,  yet he never expected to offend an important figure before even entering collage.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -7306,8 +7346,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>姬听雨和那个冰山美人苏若雪导师美眸亮了起来，战无双和旁边的黑衣少女微笑颔首，几人对于江逸能获得足够的令牌一点不觉得奇怪，江逸的实力在他们眼里可是很强横的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Kiwi" changedate="20181210T075526Z" creationid="Beverley" creationdate="20181210T060126Z">
-        <seg>The beautiful eyes of Ji Tingyu and the Ice Beauty-Mentor Su Ruoxue lit up brightly, while Zhan Wushuang and the young lady in black next to him smiled and nodded slightly. They were not at all surprised by the fact that Jiang Yi could obtain enough tokens, since to them, his strength was considered to be extremely dominant. "</seg>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T085602Z" creationid="Beverley" creationdate="20181210T060126Z">
+        <seg>The beautiful eyes of Ji Tingyu and the Ice Beauty-Mentor Su Ruoxue lit up brightly, while Zhan Wushuang and the Girl in Black next to him smiled and nodded slightly. They were not at all surprised by the fact that Jiang Yi could obtain enough tokens,to them, his strength was considered to be extremely dominant. "</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,6 +7678,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子有些惊恐疑惑的叫道：“大哥，你说什么？我不懂啊！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T075232Z" creationid="Beverley" creationdate="20181210T075232Z">
+        <seg>Fatty called out in fright and curiosity," Big brother, what are you talking about? I don't understand!"  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子翻了一个白眼道：“我们是什么？记名学员！学院内最低级的学员，就算有仪式也不是欢迎我们的！走吧，做事去了！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Tan Shi Jun" changedate="20181210T080950Z" creationid="Tan Shi Jun" creationdate="20181210T074451Z">
@@ -7650,6 +7698,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="Tan Shi Jun" changedate="20181210T075245Z" creationid="Tan Shi Jun" creationdate="20181210T062122Z">
         <seg>The smile on Fatty's face dissolved as he stiffened his expressions. He nodded and said," Sure thing, Big Brother. Tell me more, for I am dead set on this matter!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>小胖子脸上露出一丝苦涩，摇了摇头道：“大哥先松开吧，我对你没恶意的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T075932Z" creationid="Beverley" creationdate="20181210T075932Z">
+        <seg>A sense of bitter agony filled Fatty's mind, he shook his head and said,"Big brother,please release me first, I have no ill intentions towards you.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -10085,6 +10141,14 @@ He must have wanted to beat me unconscious. Perhaps… he even meant to kill me!
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸一巴掌拍在小胖子后脑勺，怒道：“再说这些屁话，信不信我把你丢进茅厕内？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T081042Z" creationid="Beverley" creationdate="20181210T081042Z">
+        <seg>Jiang Yi slapped the back of Fatty's head, and raged,“If you dare mention these nonsense ever again, don't blame me for throwing you into the toilet.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸一张脸变成了苦瓜，转念一想，这柳长老既然在后面看着，想然自己取的药材是没错了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063159Z" creationid="USER" creationdate="20180810T061954Z">
@@ -11009,6 +11073,14 @@ However, for someone like him who faced difficulty in even getting food to eat, 
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T111505Z" creationid="tianqi" creationdate="20181028T111505Z">
         <seg>Jiang Yi nodded seriously. Technically, he was not lying: the elixirs were made by melting down the useless elixirs from Elder Liu, whereas Jiang Yi himself knew nothing of elixir refinement. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸微微一叹身子隐入人群中，不想让江麒麟等人看到。谁料那个小胖子钱万贯目光一扫，突然满脸笑容的朝江逸靠了过来，老远就叫道：“大哥，你在这啊，害我一顿好找。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T075253Z" creationid="Beverley" creationdate="20181210T073348Z">
+        <seg>Jiang Yi sighed slightly and hid into the crowd, hoping not to be noticed by Jiang Qilin and his gang.  Who knew that Fatty, Qian Wanguan approached Jiang Yi with a beaming smile after taking a glance. He called Jiang Yi from afar, saying," Big brother, you were here, took me a trouble a find you."     </seg>
       </tuv>
     </tu>
     <tu>
@@ -11943,6 +12015,14 @@ Yet he smiled sweetly and replied, "Elder Liu gave the instruction two days ago 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸狐疑的扫了钱万贯一眼，问道：“我的身份？你知道我是什么身份？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T081446Z" creationid="Beverley" creationdate="20181210T081446Z">
+        <seg>Filled with doubt, Jiang Yi scanned Qian Wanguan, and asked, “My identity？You know what's my identity？”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸狐疑的眨了眨眼，问道：“没问题了，只是我们不需要缔结契约之类的吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180923T190954Z" creationid="Joey" creationdate="20180923T190954Z">
@@ -12229,6 +12309,14 @@ As he had already predicted the incoming attacks in advance, he had already take
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="tianqi" creationdate="20181031T145137Z">
         <seg>Jiang Yi's expression turned icy, not at yet another request for him to marry into the Yi Family, but at Yi Longyu's mention of the Jiang Clan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸眸子一冷，下意识的朝江麒麟望去，果然看到他正注视着自己，眸子内都是杀意。看到小胖子亲热的走过来，江逸顿时气不打一处来，抬手对着他的后脑勺就是一下，低骂道：“钱万贯，你故意的是不是？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Beverley" changedate="20181210T074418Z" creationid="Beverley" creationdate="20181210T074418Z">
+        <seg>Jiang Yi gave a chilly look, and took an instinctive glance towards Jiang Qilin. Sure enough, Jiang Qilin was glaring at him, with the intend to kill. Seeing the Fatty walk towards him plausibly made Jiang Yi could not help but feel angry. He raised his hand and smacked the back of Fatty's head, and bellowed in a deep voice," Qian Wanguan, you did it on purpose, didn't you?"  </seg>
       </tuv>
     </tu>
     <tu>
